@@ -4,3 +4,6 @@ Můj školní projekt pro práci s Gitem.
 ## Můj první úkol s Gitem
 
 Dnes jsem se naučila pracovat s Gitem ve VS Code.
+## Změna z GitHubu
+
+Tento text jsem přidala přímo na GitHubu.
